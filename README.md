@@ -1,0 +1,2 @@
+# MagicSnap
+MagicSnap - WIP
