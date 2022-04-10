@@ -1,7 +1,7 @@
 # MagicSnap
 - MagicSnap A Snapchat Xposed Module in Kotlin to learn
 
-Development roadmap [❌] = In progress [✔️] = DoneCancel changes
+Development roadmap [❌] = In progress [✔️] = Done
 - Screenshot Bypass [✔️]
 - Saving [❌]
 - Stealth Mode [❌]
